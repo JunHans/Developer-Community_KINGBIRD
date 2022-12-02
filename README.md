@@ -1,6 +1,6 @@
-# 🍕 OnePizza 🍕
+#  <Kingbird> 
 
-<img src = "KINGBIRDLOG.png" width="100%">
+<img src = "KINGBIRD로고.png" width="100%">
 
 ## 제작 컨셉 🍕
 < KINGBIRDLOGO 개발자 커뮤니티 >
